@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Xwang11
 - 👀 I’m interested in developing my technical skills and keeping a record of my projects on here :D
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ML
