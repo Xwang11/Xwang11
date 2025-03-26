@@ -56,4 +56,5 @@ New York | xiaotian.wang@stonybrook.edu | (347)675-9501 | github.com/xwang11
 
 ## Skills
 
-**Software:** Fusion, KiCad, LTSpice, C, Java, Python, Fortran, LaTeX, Bash, Matlab, R, Photoshop, Excel, Google Workspace **Packages:** Numpy, Tensorflow, Scipy, Pandas
+**Software:** Fusion, KiCad, LTSpice, C, Java, Python, Fortran, LaTeX, Bash, Matlab, Photoshop, Excel, Google Workspace 
+**Packages:** Numpy, Tensorflow, Scipy, Pandas, Matplotlib.pyplot
